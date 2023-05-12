@@ -18,6 +18,7 @@ base_packages = [
     "pandas>=1.1.5",
     "scikit-learn>=0.22.2.post1",
     "tqdm>=4.41.1",
+    "plotly>=4.7.0"
 ]
 
 flair_packages = [
